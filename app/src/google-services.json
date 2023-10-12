@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1045386616718",
+    "firebase_url": "https://proyecto01-8d2f9-default-rtdb.firebaseio.com",
+    "project_id": "proyecto01-8d2f9",
+    "storage_bucket": "proyecto01-8d2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045386616718:android:27d7e9096b2fdc383f8edf",
+        "android_client_info": {
+          "package_name": "Evaluacion2.cl.appev2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOsC5db2crSRrjowFa7PvHkVDDQmc8H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045386616718:android:5a71158a212b9a423f8edf",
+        "android_client_info": {
+          "package_name": "cl.isisur.basedatosfirebase2022"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOsC5db2crSRrjowFa7PvHkVDDQmc8H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
